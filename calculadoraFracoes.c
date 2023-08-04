@@ -1,7 +1,7 @@
 /*
 Autor: Renan Zago
 Data de Criação: 03/08/2023
-Objetivo: Implementar e usar o TAD número racional.
+Objetivo: Implementar uma calculadora de números racionais(frações).
 */
 
 // Bibliotecas
